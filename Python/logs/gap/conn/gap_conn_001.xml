@@ -1,0 +1,12 @@
+<test_results test_suite="GAP_CONN_001">
+ <environment>LOCAL</environment>
+ <debug>Test suite start</debug>
+ <tc_result id="conn_bv_001" result="PASS">
+ <debug>Run 2 sequences</debug>
+ </tc_result>
+ <tc_result id="conn_bv_002" result="FAIL" />
+ <tc_result id="conn_bv_002" result="PASS" />
+ <tc_result id="conn_bv_004" result="SKIP">
+ <reason>No pass criteria</reason>
+ </tc_result>
+</test_results>

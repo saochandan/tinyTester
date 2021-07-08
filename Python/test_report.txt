@@ -1,0 +1,36 @@
+----------------------------------------------------                   Test Report----------------------------------------------------
+--------------------  Summary ----------------------Total tests: 19Passed: 10Failed: 4Skipped: 5----------------------------------------------------
+Below test details created using: gap_conn_001.xml
+Test Suite ID: GAP_CONN_001
+----------------------------------------------------    Test ID			Test Result     Comment----------------------------------------------------    conn_bv_001        PASS        Run 2 sequences
+    conn_bv_002        FAIL        
+    conn_bv_002        PASS        
+    conn_bv_004        SKIP        No pass criteria
+----------------------------------------------------
+Below test details created using: gap_rssi_001.xml
+Test Suite ID: GAP_RSSI_001
+----------------------------------------------------    Test ID			Test Result     Comment----------------------------------------------------    gap_rssi_001        PASS        
+    gap_rssi_002        FAIL        RX 10 dBm
+    gap_rssi_003        PASS        
+    gap_rssi_004        SKIP        Not implemented
+    gap_rssi_005        SKIP        Not supported
+----------------------------------------------------
+Below test details created using: gap_sec_001.xml
+Test Suite ID: GAP_SEC_001
+----------------------------------------------------    Test ID			Test Result     Comment----------------------------------------------------    sec_auth_001        PASS        
+    sec_auth_002        SKIP        Unstable
+    sec_auth_003        PASS        Auth on 2nd attempt
+    sec_auth_004        PASS        
+----------------------------------------------------
+Below test details created using: gap_sec_002.xml
+An exception occurred while parsing xml log.
+----------------------------------------------------Below test details created using: gatts_gaw_001.xml
+Test Suite ID: GATTS_GAW_001
+----------------------------------------------------    Test ID			Test Result     Comment----------------------------------------------------    gaw_bv_001        PASS         ... 
+    gaw_bv_002        FAIL        
+    gaw_bv_003        PASS        
+    gaw_bv_004        PASS        
+    gaw_bv_005        FAIL        
+    gaw_bv_006        SKIP         ... 
+----------------------------------------------------
+----------------------------------------------------                   End of Report----------------------------------------------------

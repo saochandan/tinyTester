@@ -1,0 +1,11 @@
+<test_results test_suite="GAP_SEC_001">
+ <environment>SERVER002</environment>
+ <tc_result id="sec_auth_001" result="PASS" />
+ <tc_result id="sec_auth_002" result="SKIP" >
+ <reason>Unstable</reason>
+ </tc_result>
+ <tc_result id="sec_auth_003" result="PASS" >
+ <debug>Auth on 2nd attempt</debug>
+ </tc_result>
+ <tc_result id="sec_auth_004" result="PASS" />
+</test_results>

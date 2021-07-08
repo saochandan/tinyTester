@@ -1,0 +1,14 @@
+<test_results test_suite="GAP_RSSI_001">
+ <environment>LOCAL</environment>
+ <tc_result id="gap_rssi_001" result="PASS" />
+ <tc_result id="gap_rssi_002" result="FAIL" >
+ <debug>RX 10 dBm</debug>
+ </tc_result>
+ <tc_result id="gap_rssi_003" result="PASS" />
+ <tc_result id="gap_rssi_004" result="SKIP" >
+ <reason>Not implemented</reason>
+ </tc_result>
+ <tc_result id="gap_rssi_005" result="SKIP" >
+ <reason>Not supported</reason>
+ </tc_result>
+</test_results>

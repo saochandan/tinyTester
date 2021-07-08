@@ -1,0 +1,15 @@
+<test_results test_suite="GATTS_GAW_001">
+ <environment> ... </environment>
+ <debug> ... </debug>
+ <tc_result id="gaw_bv_001" result="PASS">
+ <debug> ... </debug>
+ </tc_result>
+ <tc_result id="gaw_bv_002" result="FAIL" />
+ <tc_result id="gaw_bv_003" result="PASS" />
+ <tc_result id="gaw_bv_004" result="PASS" />
+ <tc_result id="gaw_bv_005" result="FAIL" />
+ <tc_result id="gaw_bv_006" result="SKIP">
+ <reason> ... </reason>
+ </tc_result>
+ ...
+</test_results>

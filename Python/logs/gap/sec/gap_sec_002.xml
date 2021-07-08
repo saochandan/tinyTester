@@ -1,0 +1,11 @@
+<test_results test_suite="GAP_SEC_002">
+.........
+ <environment>  </environment>
+ <debug>  </debug>
+ <tc_result id="sec_bv_001" result="PASS">
+	<debug>  </debug>
+ </tc_result>
+ <tc_result id="sec_bv_002" result="FAIL" />
+ <tc_result id="sec_bv_004" result="SKIP">
+	<reason>  </reason>
+ </tc_result>
